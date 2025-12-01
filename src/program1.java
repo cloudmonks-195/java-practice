@@ -1,5 +1,5 @@
 import java.util.*;
-public class Functions {
+public class program1 {
     public static int maina(int a, int b){
         int sum =a+b;
         return sum;
