@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8c7894e-1662-491b-9a95-bfe29d5c3dd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/daythree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dgtcount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maybootcamp/firstandlastelementdifferencearray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maybootcamp/maxsuminmatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nthfibo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oneton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poweroftwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reversestring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringpalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumofdofn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumofnn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/daytwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daytwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firstday2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstday2.java" afterDir="false" />
+    <list default="true" id="e8c7894e-1662-491b-9a95-bfe29d5c3dd9" name="Changes" comment="may bootcamp started">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "cloudmonks-195"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cloudmonks-195&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/cloudmonks-195/java-practice",
-    "accountId": "78769309-858a-4434-b52d-c8fec12216cb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cloudmonks-195/java-practice&quot;,
+    &quot;accountId&quot;: &quot;78769309-858a-4434-b52d-c8fec12216cb&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3EvgjUDwZjth05Td8HeyNauycFA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -61,15 +45,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.arrayleaders.executor": "Run",
     "Application.firstandlastelementdifferencearray.executor": "Run",
     "Application.maxsuminmatrix.executor": "Run",
+    "Application.missingarray.executor": "Run",
+    "Application.secondlargest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="gfg" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1781064594349</updated>
     </task>
+    <task id="LOCAL-00001" summary="may bootcamp started">
+      <option name="closed" value="true" />
+      <created>1781066387490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781066387490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="may bootcamp started" />
+    <option name="LAST_COMMIT_MESSAGE" value="may bootcamp started" />
   </component>
 </project>
