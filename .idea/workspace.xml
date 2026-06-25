@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8c7894e-1662-491b-9a95-bfe29d5c3dd9" name="Changes" comment="may bootcamp started">
-      <change afterPath="$PROJECT_DIR$/src/gfg/countdividingdigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gfg/floorsortedarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gfg/primenumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e8c7894e-1662-491b-9a95-bfe29d5c3dd9" name="Changes" comment="may bootcamp progress" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -48,29 +44,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.areabetweenbars.executor": "Run",
-    "Application.arrayleaders.executor": "Run",
-    "Application.countdividingdigits.executor": "Run",
-    "Application.duplicates.executor": "Run",
-    "Application.firstandlastelementdifferencearray.executor": "Run",
-    "Application.firstoccurence.executor": "Run",
-    "Application.floorsortedarray.executor": "Run",
-    "Application.maxsuminmatrix.executor": "Run",
-    "Application.missingandrepeating.executor": "Run",
-    "Application.missingarray.executor": "Run",
-    "Application.paranthesischecker.executor": "Run",
-    "Application.primenumber.executor": "Run",
-    "Application.secondlargest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "add-gfg-solutions",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.areabetweenbars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrayleaders.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countdividingdigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countfrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.firstandlastelementdifferencearray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.firstoccurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.floorsortedarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maxsuminmatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.missingandrepeating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.missingarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nthFibonnaci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.paranthesischecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primenumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removeduplicatesinarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.secondlargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortedarray.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;add-gfg-solutions&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="gfg" />
@@ -133,11 +133,52 @@
       <option name="project" value="LOCAL" />
       <updated>1782149781216</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="may bootcamp started">
+      <option name="closed" value="true" />
+      <created>1782234014910</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782234014910</updated>
+    </task>
+    <task id="LOCAL-00008" summary="may bootcamp started">
+      <option name="closed" value="true" />
+      <created>1782234039546</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782234039546</updated>
+    </task>
+    <task id="LOCAL-00009" summary="may bootcamp started">
+      <option name="closed" value="true" />
+      <created>1782234154472</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1782234154472</updated>
+    </task>
+    <task id="LOCAL-00010" summary="may bootcamp progress">
+      <option name="closed" value="true" />
+      <created>1782317642213</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1782317642213</updated>
+    </task>
+    <task id="LOCAL-00011" summary="may bootcamp progress">
+      <option name="closed" value="true" />
+      <created>1782317652880</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1782317652880</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="may bootcamp started" />
-    <option name="LAST_COMMIT_MESSAGE" value="may bootcamp started" />
+    <MESSAGE value="may bootcamp progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="may bootcamp progress" />
   </component>
 </project>

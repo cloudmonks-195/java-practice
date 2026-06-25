@@ -29,4 +29,5 @@ public class areabetweenbars {
         System.out.println(result);
     }
 
+
 }
